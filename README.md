@@ -38,5 +38,8 @@ I am so curious and eager to develop these further . Please get me know .
 
 
 INSTRUCTIONS TO RUN CODE :
-
+STEP 1:L NODE JS 
+STEP-2: NPM INSTALL
+STEP-3: NPM START
 PLEASE PULL THE CODE AND RUN IN THE JS BIN SELECTING JQUERY PLUGIN AND PLEASE CHECK THE DOCUMENT ATTACHED IN THE MAIL FOR THE SCREENSHOTS .
+Due to issues with API which i stated in README and i am not sure will execute the code . I have attached the screenshots of the website while i am executing in my local host please go through it. 
