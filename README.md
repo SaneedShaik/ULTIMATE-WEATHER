@@ -35,3 +35,8 @@ My Question is like if we should i stick to meta weather api or open weather api
 application ?
 These are just my thoughts that have come during development phase .
 I am so curious and eager to develop these further . Please get me know .
+
+
+INSTRUCTIONS TO RUN CODE :
+
+PLEASE PULL THE CODE AND RUN IN THE JS BIN SELECTING JQUERY PLUGIN .
